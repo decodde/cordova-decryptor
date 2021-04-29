@@ -1,0 +1,11 @@
+{
+  "name": "cordova-decryptor",
+  "version": "1.0.0",
+  "description": "Decrypts encrypted cordova projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tenthrees",
+  "license": "ISC"
+}
